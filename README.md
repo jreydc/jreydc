@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jreydc
 - 👀 I’m interested in Game and Application Development
-- 🌱 I’m currently learning Creative Coding using Python
+- 🌱 I’m a Unity Game developer, Instructional designer and Digital Artist.
 - 💞️ I’m looking to collaborate on research regarding Game elements and Gamification
 - 📫 How to reach me jreydc@gmail
 

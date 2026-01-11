@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jreydc
-- 👀 I’m interested in Game and Application Development
-- 🌱 I’m a Unity Game developer, Instructional designer and Digital Artist.
-- 💞️ I’m looking to collaborate on research regarding Game elements and Gamification
+- 👀 I’m interested in Game, Software and Application Development
+- 🌱 I’m a Software Engineer, Unity Game developer, Roblox developer, Instructional designer and Digital Artist.
+- 💞️ I’m looking to collaborate on development on any game and softwares and also researches regarding Game elements and Gamification
 - 📫 How to reach me jreydc@gmail
 
 <!---
